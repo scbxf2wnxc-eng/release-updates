@@ -4,8 +4,7 @@
 
 > **Dominate every round with precision. Play like a pro, look like a legend.**
 
-[![Release](https://img.shields.io/github/v/release/geotrix/geocheat?style=for-the-badge&color=brightgreen)](https://github.com/geotrix/geocheat/releases)
-[![Discord](https://img.shields.io/discord/1234567890?label=Discord&style=for-the-badge&color=5865F2)](https://discord.gg/geotrix)
+[![Download](https://img.shields.io/badge/Download-GeoTrix.xyz-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://geotrix.xyz)
 [![Status](https://img.shields.io/badge/Status-UNDETECTED-blue?style=for-the-badge)](https://geotrix.xyz)
 
 ## 🚀 Why GeoCheat?
@@ -42,7 +41,7 @@ Built with **stealth** and **performance** in mind, it seamlessly integrates wit
 
 ## 📥 Installation
 
-1.  Download the latest **Setup.exe** from the [Releases Page](https://github.com/geotrix/geocheat/releases).
+1.  Download the latest **Setup.exe** from our official website: [geotrix.xyz](https://geotrix.xyz).
 2.  Run the installer.
 3.  Launch **GeoCheat** from your desktop.
 4.  Open GeoGuessr in your browser (Chrome/Edge recommended).
