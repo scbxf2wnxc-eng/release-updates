@@ -1,6 +1,6 @@
 # 🌍 GeoCheat - The Ultimate GeoGuessr Companion
 
-![GeoCheat Banner](https://via.placeholder.com/1200x400.png?text=GEOTRIX+PREVIEW+HERE)
+![GeoCheat Banner](https://geotrix.xyz/assets/banner.png)
 
 > **Dominate every round with precision. Play like a pro, look like a legend.**
 
@@ -59,6 +59,7 @@ This software is for **educational purposes only**. Using cheats in competitive 
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://geotrix.xyz">GeoTrix Team</a>
-</p>
+<!--
+#GeoGuessr #GeoGuessrHack #GeoGuessrCheat #GeoGuessrBot #GeoGuessrScript #GeoGuessrLocationFinder #GeoGuessrCoordinates #GeoGuessrMap #GeoGuessrOverlay #StreamProof #OBSBypass #DiscordRPC #Electron #Cheat #Hack #Bot #Script #GameHack #Undetected #GeoTrix
+-->
+
