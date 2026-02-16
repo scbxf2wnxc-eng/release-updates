@@ -1,6 +1,6 @@
-# 🌍 GeoCheat - The Ultimate GeoGuessr Companion
+# 🌍 GEOTRIX - The Ultimate GeoGuessr CHEAT
 
-![GeoCheat Banner](https://geotrix.xyz/assets/banner.png)
+![GeoCheat Banner](data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20width='512'%20height='512'%20viewBox='0%200%20512%20512'%3e%3cdefs%3e%3clinearGradient%20id='purpleGrad'%20x1='0%25'%20y1='0%25'%20x2='100%25'%20y2='100%25'%3e%3cstop%20offset='0%25'%20style='stop-color:%23d8b4fe;stop-opacity:1'%20/%3e%3cstop%20offset='50%25'%20style='stop-color:%23a855f7;stop-opacity:1'%20/%3e%3cstop%20offset='100%25'%20style='stop-color:%237e22ce;stop-opacity:1'%20/%3e%3c/linearGradient%3e%3cfilter%20id='glow'%20x='-20%25'%20y='-20%25'%20width='140%25'%20height='140%25'%3e%3cfeGaussianBlur%20stdDeviation='10'%20result='blur'%20/%3e%3cfeComposite%20in='SourceGraphic'%20in2='blur'%20operator='over'%20/%3e%3c/filter%3e%3c/defs%3e%3crect%20width='512'%20height='512'%20rx='120'%20fill='%23000000'%20/%3e%3crect%20x='4'%20y='4'%20width='504'%20height='504'%20rx='116'%20fill='none'%20stroke='%233f3f46'%20stroke-width='2'%20opacity='0.5'/%3e%3cg%20transform='translate(256,%20256)'%3e%3ccircle%20r='140'%20fill='none'%20stroke='url(%23purpleGrad)'%20stroke-width='24'%20stroke-dasharray='80%2040'%20opacity='0.4'%20/%3e%3cpath%20d='M-60,60%20L0,-160%20L60,60%20L0,20%20Z'%20fill='url(%23purpleGrad)'%20filter='url(%23glow)'%20transform='translate(0,%2010)'/%3e%3ccircle%20cx='0'%20cy='10'%20r='15'%20fill='%23ffffff'%20/%3e%3c/g%3e%3c/svg%3e)
 
 > **Dominate every round with precision. Play like a pro, look like a legend.**
 
@@ -59,7 +59,6 @@ This software is for **educational purposes only**. Using cheats in competitive 
 
 ---
 
-<!--
-#GeoGuessr #GeoGuessrHack #GeoGuessrCheat #GeoGuessrBot #GeoGuessrScript #GeoGuessrLocationFinder #GeoGuessrCoordinates #GeoGuessrMap #GeoGuessrOverlay #StreamProof #OBSBypass #DiscordRPC #Electron #Cheat #Hack #Bot #Script #GameHack #Undetected #GeoTrix
--->
-
+<p align="center">
+  Made with ❤️ by <a href="https://geotrix.xyz">GeoTrix Team</a>
+</p>
